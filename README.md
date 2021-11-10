@@ -1,7 +1,6 @@
 <h1>ATM</h1>
 <br>
 <h3>Description</h3>
-<br>
 <p>This exercise is a basic ATM Machine. You can deposit or withdraw, as long there is funds. Also it keeps track of your balance.
 <br>
 <h3>How to Run</h3>
